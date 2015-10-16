@@ -1,0 +1,166 @@
+Figwheel: focusing on build-ids (dev)
+[0mCompiling "resources/public/js/compiled/om_tut.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/om_tut.js" in 0.328 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/goog/deps.js
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_deps.js
+notifying browser that file changed:  /om_tut/core.js
+[0mCompiling "resources/public/js/compiled/om_tut.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/om_tut.js" in 0.218 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_deps.js
+notifying browser that file changed:  /om_tut/core.js
+[0mCompiling "resources/public/js/compiled/om_tut.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/om_tut.js" in 0.245 seconds.[0m
+notifying browser that file changed:  /om_tut/core.js
+[0mCompiling "resources/public/js/compiled/om_tut.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/om_tut.js" in 0.244 seconds.[0m
+notifying browser that file changed:  /om_tut/core.js
+[0mCompiling "resources/public/js/compiled/om_tut.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/om_tut.js" in 0.322 seconds.[0m
+notifying browser that file changed:  /om_tut/core.js
+[0mCompiling "resources/public/js/compiled/om_tut.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/om_tut.js" in 0.253 seconds.[0m
+notifying browser that file changed:  /om_tut/core.js
+[0mCompiling "resources/public/js/compiled/om_tut.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/om_tut.js" in 0.242 seconds.[0m
+notifying browser that file changed:  /om_tut/core.js
+Figwheel: focusing on build-ids (dev)
+[0mCompiling "resources/public/js/compiled/om_tut.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/om_tut.js" in 0.405 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/goog/deps.js
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_deps.js
+notifying browser that file changed:  /om_tut/core.js
+[0mCompiling "resources/public/js/compiled/om_tut.js" from ["src"]...
+[31mCompiling "resources/public/js/compiled/om_tut.js" failed.[0m
+ERROR: EOF while reading, starting at line 14 and column 6 on file /home/donny/om-tut/src/om_tut/core.cljs, line 51, column 1
+[0mCompiling "resources/public/js/compiled/om_tut.js" from ["src"]...
+WARNING: Use of undeclared Var om-tut.core/contact-view at line 28 src/om_tut/core.cljs
+WARNING: Use of undeclared Var om-tut.core/display-name at line 34 src/om_tut/core.cljs
+[32mSuccessfully compiled "resources/public/js/compiled/om_tut.js" in 0.383 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_deps.js
+notifying browser that file changed:  /om_tut/core.js
+[0mCompiling "resources/public/js/compiled/om_tut.js" from ["src"]...
+WARNING: Use of undeclared Var om-tut.core/contact-view at line 28 src/om_tut/core.cljs
+WARNING: Use of undeclared Var om-tut.core/middle-name at line 31 src/om_tut/core.cljs
+[32mSuccessfully compiled "resources/public/js/compiled/om_tut.js" in 0.304 seconds.[0m
+notifying browser that file changed:  /om_tut/core.js
+[0mCompiling "resources/public/js/compiled/om_tut.js" from ["src"]...
+WARNING: Use of undeclared Var om-tut.core/contact-view at line 28 src/om_tut/core.cljs
+WARNING: Use of undeclared Var om-tut.core/middle-name at line 31 src/om_tut/core.cljs
+[32mSuccessfully compiled "resources/public/js/compiled/om_tut.js" in 0.284 seconds.[0m
+notifying browser that file changed:  /om_tut/core.js
+[0mCompiling "resources/public/js/compiled/om_tut.js" from ["src"]...
+WARNING: Use of undeclared Var om-tut.core/contact-view at line 28 src/om_tut/core.cljs
+WARNING: Use of undeclared Var om-tut.core/middle-name at line 31 src/om_tut/core.cljs
+[32mSuccessfully compiled "resources/public/js/compiled/om_tut.js" in 0.28 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_deps.js
+notifying browser that file changed:  /om_tut/core.js
+[0mCompiling "resources/public/js/compiled/om_tut.js" from ["src"]...
+WARNING: Use of undeclared Var om-tut.core/contact-view at line 28 src/om_tut/core.cljs
+WARNING: Use of undeclared Var om-tut.core/middle-name at line 31 src/om_tut/core.cljs
+[32mSuccessfully compiled "resources/public/js/compiled/om_tut.js" in 0.29 seconds.[0m
+notifying browser that file changed:  /om_tut/core.js
+[0mCompiling "resources/public/js/compiled/om_tut.js" from ["src"]...
+WARNING: Use of undeclared Var om-tut.core/contact-view at line 28 src/om_tut/core.cljs
+WARNING: Use of undeclared Var om-tut.core/middle-name at line 31 src/om_tut/core.cljs
+[32mSuccessfully compiled "resources/public/js/compiled/om_tut.js" in 0.329 seconds.[0m
+notifying browser that file changed:  /om_tut/core.js
+[0mCompiling "resources/public/js/compiled/om_tut.js" from ["src"]...
+WARNING: Use of undeclared Var om-tut.core/contact-view at line 39 src/om_tut/core.cljs
+WARNING: Use of undeclared Var om-tut.core/middle-name at line 45 src/om_tut/core.cljs
+[32mSuccessfully compiled "resources/public/js/compiled/om_tut.js" in 0.618 seconds.[0m
+notifying browser that file changed:  /om_tut/core.js
+[0mCompiling "resources/public/js/compiled/om_tut.js" from ["src"]...
+WARNING: Use of undeclared Var om-tut.core/contact-view at line 39 src/om_tut/core.cljs
+WARNING: Use of undeclared Var om-tut.core/middle-name at line 45 src/om_tut/core.cljs
+[32mSuccessfully compiled "resources/public/js/compiled/om_tut.js" in 0.359 seconds.[0m
+notifying browser that file changed:  /om_tut/core.js
+[0mCompiling "resources/public/js/compiled/om_tut.js" from ["src"]...
+WARNING: Use of undeclared Var om-tut.core/contact-view at line 40 src/om_tut/core.cljs
+[32mSuccessfully compiled "resources/public/js/compiled/om_tut.js" in 0.364 seconds.[0m
+notifying browser that file changed:  /om_tut/core.js
+[0mCompiling "resources/public/js/compiled/om_tut.js" from ["src"]...
+WARNING: Use of undeclared Var om-tut.core/contact-view at line 40 src/om_tut/core.cljs
+[32mSuccessfully compiled "resources/public/js/compiled/om_tut.js" in 0.477 seconds.[0m
+notifying browser that file changed:  /om_tut/core.js
+[0mCompiling "resources/public/js/compiled/om_tut.js" from ["src"]...
+WARNING: Use of undeclared Var om-tut.core/contact-view at line 40 src/om_tut/core.cljs
+[32mSuccessfully compiled "resources/public/js/compiled/om_tut.js" in 0.459 seconds.[0m
+notifying browser that file changed:  /om_tut/core.js
+[0mCompiling "resources/public/js/compiled/om_tut.js" from ["src"]...
+WARNING: Use of undeclared Var om-tut.core/contact-view at line 40 src/om_tut/core.cljs
+[32mSuccessfully compiled "resources/public/js/compiled/om_tut.js" in 0.493 seconds.[0m
+notifying browser that file changed:  /om_tut/core.js
+[0mCompiling "resources/public/js/compiled/om_tut.js" from ["src"]...
+WARNING: Use of undeclared Var om-tut.core/contact-view at line 41 src/om_tut/core.cljs
+[32mSuccessfully compiled "resources/public/js/compiled/om_tut.js" in 0.394 seconds.[0m
+notifying browser that file changed:  /om_tut/core.js
+[0mCompiling "resources/public/js/compiled/om_tut.js" from ["src"]...
+WARNING: Use of undeclared Var om-tut.core/contact-view at line 46 src/om_tut/core.cljs
+[32mSuccessfully compiled "resources/public/js/compiled/om_tut.js" in 0.445 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_deps.js
+notifying browser that file changed:  /om_tut/core.js
+[0mCompiling "resources/public/js/compiled/om_tut.js" from ["src"]...
+WARNING: Use of undeclared Var om-tut.core/contact-view at line 44 src/om_tut/core.cljs
+[31mCompiling "resources/public/js/compiled/om_tut.js" failed.[0m
+ERROR: EOF while reading, starting at line 65 and column 8 on file /home/donny/om-tut/src/om_tut/core.cljs, line 89, column 1
+[0mCompiling "resources/public/js/compiled/om_tut.js" from ["src"]...
+WARNING: Use of undeclared Var om-tut.core/contact-view at line 44 src/om_tut/core.cljs
+[31mCompiling "resources/public/js/compiled/om_tut.js" failed.[0m
+ERROR: EOF while reading, starting at line 65 and column 8 on file /home/donny/om-tut/src/om_tut/core.cljs, line 89, column 1
+[0mCompiling "resources/public/js/compiled/om_tut.js" from ["src"]...
+WARNING: Use of undeclared Var om-tut.core/contact-view at line 44 src/om_tut/core.cljs
+[31mCompiling "resources/public/js/compiled/om_tut.js" failed.[0m
+ERROR: EOF while reading, starting at line 65 and column 8 on file /home/donny/om-tut/src/om_tut/core.cljs, line 88, column 1
+[0mCompiling "resources/public/js/compiled/om_tut.js" from ["src"]...
+WARNING: Use of undeclared Var om-tut.core/contact-view at line 44 src/om_tut/core.cljs
+[31mCompiling "resources/public/js/compiled/om_tut.js" failed.[0m
+ERROR: EOF while reading, starting at line 65 and column 3 on file /home/donny/om-tut/src/om_tut/core.cljs, line 88, column 1
+Figwheel: focusing on build-ids (dev)
+[0mCompiling "resources/public/js/compiled/om_tut.js" from ["src"]...
+WARNING: Use of undeclared Var om-tut.core/contact-view at line 44 src/om_tut/core.cljs
+[31mCompiling "resources/public/js/compiled/om_tut.js" failed.[0m
+ERROR: EOF while reading, starting at line 65 and column 3 on file /home/donny/om-tut/src/om_tut/core.cljs, line 88, column 1
+Figwheel: focusing on build-ids (dev)
+[0mCompiling "resources/public/js/compiled/om_tut.js" from ["src"]...
+WARNING: Use of undeclared Var om-tut.core/contact-view at line 44 src/om_tut/core.cljs
+[31mCompiling "resources/public/js/compiled/om_tut.js" failed.[0m
+ERROR: EOF while reading, starting at line 65 and column 3 on file /home/donny/om-tut/src/om_tut/core.cljs, line 88, column 1
+[0mCompiling "resources/public/js/compiled/om_tut.js" from ["src"]...
+WARNING: Use of undeclared Var om-tut.core/contact-view at line 44 src/om_tut/core.cljs
+[32mSuccessfully compiled "resources/public/js/compiled/om_tut.js" in 11.031 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/goog/deps.js
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_deps.js
+notifying browser that file changed:  /om_tut/core.js
+Figwheel: focusing on build-ids (dev)
+[0mCompiling "resources/public/js/compiled/om_tut.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/om_tut.js" in 0.31 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/goog/deps.js
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_deps.js
+notifying browser that file changed:  /om_tut/core.js
+[0mCompiling "resources/public/js/compiled/om_tut.js" from ["src"]...
+WARNING: Use of undeclared Var om-tut.core/contact-view at line 44 src/om_tut/core.cljs
+[32mSuccessfully compiled "resources/public/js/compiled/om_tut.js" in 0.548 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_deps.js
+notifying browser that file changed:  /om_tut/core.js
+[0mCompiling "resources/public/js/compiled/om_tut.js" from ["src"]...
+WARNING: Use of undeclared Var om-tut.core/contact-view at line 44 src/om_tut/core.cljs
+WARNING: Use of undeclared Var om-tut.core/add-contact at line 48 src/om_tut/core.cljs
+[32mSuccessfully compiled "resources/public/js/compiled/om_tut.js" in 0.437 seconds.[0m
+notifying browser that file changed:  /om_tut/core.js
+[0mCompiling "resources/public/js/compiled/om_tut.js" from ["src"]...
+WARNING: Use of undeclared Var om-tut.core/contact-view at line 44 src/om_tut/core.cljs
+WARNING: Use of undeclared Var om-tut.core/add-contact at line 48 src/om_tut/core.cljs
+[32mSuccessfully compiled "resources/public/js/compiled/om_tut.js" in 0.653 seconds.[0m
+notifying browser that file changed:  /om_tut/core.js
+Figwheel: focusing on build-ids (dev)
+[0mCompiling "resources/public/js/compiled/om_tut.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/om_tut.js" in 0.931 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/goog/deps.js
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_deps.js
+notifying browser that file changed:  /om_tut/core.js
+Figwheel: focusing on build-ids (dev)
+[0mCompiling "resources/public/js/compiled/om_tut.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/om_tut.js" in 0.78 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/goog/deps.js
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_deps.js
+notifying browser that file changed:  /om_tut/core.js
